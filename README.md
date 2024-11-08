@@ -1,7 +1,7 @@
 <h2 align="center">Xin chào👋! Mình tên là Đặng Lộc Tài</h2>
 <h3 align="center">Mình là sinh viên đang theo học tại PTITHCM</h3>
 
-<img src="https://komarev.com/ghpvc/?username=tailoc078&label=Profile%20views&color=0e75b6&style=flat" alt="tailoc078" /> </p>
+<img src="https://komarev.com/ghpvc/?username=tailoc078&label=Profile%20views&color=0e75b6&style=flat" alt="dangloctai" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a> </p>
 
