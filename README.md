@@ -17,6 +17,7 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
 ###
+<h3 align="left">Ngôn ngữ và Công cụ:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -48,3 +49,8 @@
 </div>
 
 ###
+
+<h3 align="left">Kết nối với tôi:</h3>
+<palign="left">
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100024047940295" mục tiêu="trống"><img căn chỉnh="trung tâm" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024047940295" height="30" width="40" /></a>
+</p>
