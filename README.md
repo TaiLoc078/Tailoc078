@@ -1,8 +1,13 @@
-<h2 align="left">Xin chào👋! Mình tên là Đặng Lộc Tài</h2>
+<h2 align="center">Xin chào👋! Mình tên là Đặng Lộc Tài</h2>
+<h3 align="center">Mình là sinh viên đang theo học tại PTITHCM</h3>
+
+<img src="https://komarev.com/ghpvc/?username=tailoc078&label=Profile%20views&color=0e75b6&style=flat" alt="tailoc078" /> </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a> </p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tailoc078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tailoc078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
