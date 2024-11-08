@@ -52,5 +52,5 @@
 
 <h3 align="left">Kết nối với tôi:</h3>
 <palign="left">
-<a href="https://fb.com/profile. php?id=100024047940295" target="blank"><img căn chỉnh="trung tâm" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id =100024047940295" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100024047940295" target="blank"><img căn chỉnh="trung tâm" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id =100024047940295" height="30" width="40" /></a>
 </p>
