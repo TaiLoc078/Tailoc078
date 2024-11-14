@@ -1,56 +1,73 @@
-<h2 align="center">Xin chào👋! Mình tên là Đặng Lộc Tài</h2>
-<h3 align="center">Mình là sinh viên đang theo học tại PTITHCM</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=tailoc078&label=Profile%20views&color=0e75b6&style=flat" alt="dangloctai" />
 
-<img src="https://komarev.com/ghpvc/?username=tailoc078&label=Profile%20views&color=0e75b6&style=flat" alt="dangloctai" /> </p>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=500&center=true&vCenter=true&width=500&height=70&lines=Xin+ch%C3%A0o!+%F0%9F%91%8B;M%C3%ACnh+t%C3%AAn+l%C3%A0+%C4%90%E1%BA%B7ng+L%E1%BB%99c+T%C3%A0i!" alt="Typing SVG" /></a>
+</h1>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a> </p>
+<h3 align="center">Mình là sinh viên đang theo học tại PTITHCM </h3>
 
-###
+<br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tailoc078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tailoc078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+
+  📘 Hiện tại, Mình đang học tập trong lĩnh vực **Viễn Thông**
+  
+  📘 Các Bạn có thể hỏi mình về **Vô tuyến, C/C++, Matlab, Assembly, Python**
+
+  🥇 Hãy sống hết mình, không phụ thuộc vào bất kỳ thứ gì, hãy làm những gì bạn nghĩ là đúng và sống một cách thực tế, **Tích cực**
+
+ </div>
+
+<div align="center">
+  <a href="https://fb.com/profile.php?id=100024047940295">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="mailto:tailoc2072004@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/tailoc078">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  
 </div>
 
-###
+ <hr/>
 
-<img align="right" height="175" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
-
-###
-<h3 align="left">Ngôn ngữ và Công cụ:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<h2 align="center">⚒️ Ngôn Ngữ và Công Cụ ⚒️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=htmx,c,cpp,matlab,py" /><br>
+    <img src="https://skillicons.dev/icons?i=replit,vscode,git,github,cloudflare" />
+  </a>
 </div>
 
-###
+<br/>
+<hr/>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+<div align="center">
+  <h2>🍀 My Contributions 🍀</h2>
+  <br>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tailoc078/tailoc078/output/github-contribution-grid-snake.svg" /><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a>
+
+  <br/><br/><br/>
 </div>
 
-###
+<hr/>
 
-<h3 align="left">Kết nối với tôi:</h3>
-<palign="left">
-<a href="https://fb.com/profile.php?id=100024047940295" target="blank"><img căn chỉnh="trung tâm" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id =100024047940295" height="30" width="40" /></a>
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tailoc078&theme=react&hide_border=true&border_radius=10&card_width=390" alt="GitHub Streak" /></a>
+  <img height="193" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=200&size=28&duration=3002&pause=500&color=C07383C0&center=true&vCenter=true&random=true&width=500&height=70&lines=C%E1%BA%A3m+%C6%A1n+b%E1%BA%A1n+%C4%91%C3%A3+gh%C3%A9+th%C4%83m!+%F0%9F%8E%85;Ch%C3%BAc+b%E1%BA%A1n+m%E1%BB%99t+ng%C3%A0y+th%E1%BA%ADt+%C3%BD+ngh%C4%A9a%F0%9F%8E%81" alt="Typing SVG" /></a>
+</h3>
+
+<br/>
