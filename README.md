@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🍀 My Contributions 🍀</h2>
   <br>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/tailoc078/tailoc078/output/github-contribution-grid-snake.svg" /><br>
+  <img alt="Snake animation" src="https://github.com/TaiLoc078/Tailoc078/blob/output/github-contribution-grid-snake.svg" /><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a>
 
   <br/><br/><br/>
