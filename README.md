@@ -14,7 +14,7 @@
   
   📘 Các Bạn có thể hỏi mình về **Vô tuyến, C/C++, Matlab, Assembly, Python**
 
-  🥇 Hãy sống hết mình, không phụ thuộc vào bất kỳ thứ gì, hãy tự mình tìm ra điều đúng và sống một cách thực tế, **Tích cực**
+  🥇 Xin bạn luôn nhớ, **Sức Khoẻ** của bản thân là thứ quan trọng nhất!
 
  </div>
 
