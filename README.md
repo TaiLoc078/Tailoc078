@@ -14,7 +14,7 @@
   
   📘 Các Bạn có thể hỏi mình về **Vô tuyến, C/C++, Matlab, Assembly, Python**
 
-  🥇 Hãy sống hết mình, không phụ thuộc vào bất kỳ thứ gì, hãy làm những gì bạn nghĩ là đúng và sống một cách thực tế, **Tích cực**
+  🥇 Hãy sống hết mình, không phụ thuộc vào bất kỳ thứ gì, hãy tự mình tìm ra điều đúng và sống một cách thực tế, **Tích cực**
 
  </div>
 
@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=dangloctai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blood&locale=vi&hide_border=false" height="193" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tailoc078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blood&locale=vi&hide_border=false" height="193" alt="stats graph"  />
   <img height="193" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 </div>
 
