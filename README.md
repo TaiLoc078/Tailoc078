@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tailoc078&theme=react&hide_border=true&border_radius=10&card_width=390" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dangloctai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blood&locale=vi&hide_border=false" height="193" alt="stats graph"  />
   <img height="193" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 </div>
 
