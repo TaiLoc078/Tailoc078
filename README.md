@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=tailoc078&label=Profile%20views&color=0e75b6&style=flat" alt="dangloctai" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=500&center=true&vCenter=true&width=500&height=70&lines=Xin+ch%C3%A0o!+%F0%9F%91%8B;M%C3%ACnh+t%C3%AAn+l%C3%A0+%C4%90%E1%BA%B7ng+L%E1%BB%99c+T%C3%A0i!" alt="Typing SVG" /></a>
+    <a href="https://fb.com/profile.php?id=100024047940295"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=500&center=true&vCenter=true&width=500&height=70&lines=Xin+ch%C3%A0o!+%F0%9F%91%8B;M%C3%ACnh+t%C3%AAn+l%C3%A0+%C4%90%E1%BA%B7ng+L%E1%BB%99c+T%C3%A0i!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Mình là sinh viên đang theo học tại PTITHCM </h3>
@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Ngôn Ngữ và Công Cụ ⚒️</h2>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://fb.com/profile.php?id=100024047940295">
     <img src="https://skillicons.dev/icons?i=htmx,c,cpp,matlab,py" /><br>
     <img src="https://skillicons.dev/icons?i=replit,vscode,git,github,cloudflare" />
   </a>
@@ -49,7 +49,7 @@
   <h2>🍀 My Contributions 🍀</h2>
   <br>
   <img alt="Snake animation" src="https://github.com/TaiLoc078/Tailoc078/blob/output/github-contribution-grid-snake.svg" /><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a>
+  <a href="https://fb.com/profile.php?id=100024047940295"><img src="https://github-profile-trophy.vercel.app/?username=tailoc078" alt="tailoc078" /></a>
 
   <br/><br/><br/>
 </div>
@@ -67,7 +67,7 @@
 <hr/>
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=200&size=28&duration=3002&pause=500&color=C07383C0&center=true&vCenter=true&random=true&width=500&height=70&lines=C%E1%BA%A3m+%C6%A1n+b%E1%BA%A1n+%C4%91%C3%A3+gh%C3%A9+th%C4%83m!+%F0%9F%8E%85;Ch%C3%BAc+b%E1%BA%A1n+m%E1%BB%99t+ng%C3%A0y+th%E1%BA%ADt+%C3%BD+ngh%C4%A9a%F0%9F%8E%81" alt="Typing SVG" /></a>
+<a href="https://fb.com/profile.php?id=100024047940295"><img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=200&size=28&duration=3002&pause=500&color=C07383C0&center=true&vCenter=true&random=true&width=500&height=70&lines=C%E1%BA%A3m+%C6%A1n+b%E1%BA%A1n+%C4%91%C3%A3+gh%C3%A9+th%C4%83m!+%F0%9F%8E%85;Ch%C3%BAc+b%E1%BA%A1n+m%E1%BB%99t+ng%C3%A0y+th%E1%BA%ADt+%C3%BD+ngh%C4%A9a%F0%9F%8E%81" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
