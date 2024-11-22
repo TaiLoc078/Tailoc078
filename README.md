@@ -61,7 +61,7 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=tailoc078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blood&locale=en&hide_border=false" height="193" alt="stats graph"  />
   <img height="193" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tailoc078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blood&hide_border=false" height="163" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tailoc078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blood&hide_border=false" height="163" alt="languages graph"  />
 </div>
 
 <br/><br/>
